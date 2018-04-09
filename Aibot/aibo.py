@@ -9,6 +9,7 @@ from random import *
 import os
  
 #comment
+#comment
  
 Client = discord.Client()
 client = commands.Bot(command_prefix = "!!")
